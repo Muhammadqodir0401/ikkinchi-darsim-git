@@ -1,0 +1,490 @@
+*{
+    box-sizing:border-box ;
+}
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.conteyner{
+    margin: 0 auto;
+    width: 98vw;
+    overflow: hidden;
+}
+
+
+.header{
+    width: 1440px;
+    height: 98px;
+    background-color: #163A24;
+    display: flex;
+   
+    align-items: center;
+    
+}
+
+.header img{
+    width: 153px;
+    height: 58px;
+    margin-left: 130px ;
+    margin-right: 437px;
+}
+
+.header nav{
+  
+    
+    width: 590px;
+    height: 57px;
+
+}
+
+
+.ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+     margin: 0;
+   
+}
+.ul li{
+    color: #FBFAF7;
+}
+
+
+
+.li{
+    background-color: #198C36;
+    padding: 15px 25px;
+    border-radius: 160px;
+}
+
+
+
+.section{
+    width: 1440px;
+    height: 544px;
+    background-image: url(./img/Frame\ \(1\).svg);
+}
+
+.section2{
+    width: 1440px;
+    height: 1225.81px;
+    margin: 120px 0px;
+
+}
+
+
+.birinchi{
+    width: 1180px;
+    height: 509.55px;
+    margin: 0.06px 130px;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.ichki{
+
+    width: 393.33px;
+    height: 200px;
+}
+
+.ichki h1{
+    width: 325px;
+    height: 108px;
+    font-size: 48px;
+    color: #163A24;
+}
+
+.ichki p{
+    width: 374px;
+    height: 58px;
+    font-size: 18px;
+}
+
+
+.divikkinchi{
+    height: 422.88px;
+    width: 1180px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 130px 0.06px    ;
+   
+}
+
+.ichkiikki h1{
+    width: 376px;
+
+}
+.sectiontugash{
+    width: 1180px;
+    height: 293.39px;
+   
+    margin: 0px 130px ;
+    
+    
+
+}
+
+.sectiontugash h1{
+    width: 539px;
+    height: 54px;
+    font-size: 48px ;
+    color: #163A24;
+    margin: 120px 321px 61px 320px;
+    
+    
+ 
+ 
+}
+.spanbir{
+    display: flex;
+    justify-content: space-around;
+    width: 983.33px;
+    margin:0 auto;
+    
+}
+
+.spanbir  img{
+   display: inline-block;
+}
+
+.belgi{
+    width: 1440px;
+    height: 568px;
+    background-color: #163A24;
+    margin: 0;
+
+}
+.belgi h1{
+   color: #FBFAF7;
+   padding: 66px 297px 0px 320px;
+
+}
+
+.rasimlar{
+    width: 1440px;
+    height: 328px;
+    display: flex;
+    justify-content: center;
+    margin-top: 73px;
+    
+
+}
+.rasimlar div{
+    width: 295px;
+    height: 239px;
+    text-align: center;
+}
+.rasimlar div img{
+    margin-bottom: 27px;
+}
+
+
+
+.rasimlar div p{
+   margin: 0;
+}
+
+
+
+.bayram{
+    width: 1440px;
+    height: 775px;
+    background-color: #F2EFE6;
+    text-align: center;
+   
+}
+
+.bayram h1{
+    width: 739px;
+    font-size: 48px;
+    display: inline-block;
+    justify-content: center;
+   
+  
+
+}
+
+.bayram p{
+    width: 760px;
+    display: inline-block;
+    justify-content: center;
+    margin-top: 0;
+    
+}
+
+.dastur{
+    width: 1180px;
+    height: 426.88px;
+    margin: 180px 130px 120px;
+    display: flex;
+    vertical-align: middle;
+}
+
+.yoz{
+    width: 393.33px;
+    height: 227px;
+    color: #163A24;
+    margin: 98px;
+   
+}
+
+.yoz h1{
+    font-size: 48px;
+    width: 338px;
+}
+.yoz p{
+    font-size: 18px;
+    width:339px;
+   margin: 0;
+}
+
+.kuz{
+    width: 1440px;
+    height: 549px;
+
+}
+
+.kuz h1{
+    text-align: center;
+    font-size: 48px;
+}
+
+.kuz p{
+    font-size: 18px;
+    text-align: center;
+}
+
+.uchavlon{
+    width: 1180px;
+    height: 430px;
+    margin: 0 auto;
+  
+    display: flex;
+    justify-content: space-around;
+}
+.abir{
+    background-color: #E9E4D5;
+    width: 353px;
+    height: 393px;
+    border-radius: 15px;
+    padding: 50px 40px 66px 40px;
+    box-shadow: 5px 5px 20px 0px #E9E4D5;
+}
+
+
+
+
+
+.abir h2{
+    width: 160px;
+
+}
+
+.abir ul{
+    margin-left: 10px;
+    padding: 0;
+}
+.abir li{
+    margin-bottom: 15px;
+}
+
+
+
+.qish{
+    width: 1440px;
+    height: 602px;
+    background-color: #F2EFE6;
+}
+
+.qish h1{
+    font-size: 48px;
+    text-align: center;
+    padding-top:  120px;
+}
+
+.qish p{
+    font-size: 18px;
+    text-align: center;
+}
+
+.uchavlon1{
+    width: 1180px;
+    height: 186.66px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    padding-right: 27px;
+    justify-content: center;
+}
+
+.yangilik{
+    width: 262.2px;
+    height: 141px;
+    
+}
+.yangilik p{
+    text-align: center;
+    font-size: 18px;
+    color: #163A24;
+
+}
+.yangilik h2{
+    font-size: 28px;
+    text-align: center;
+    color: #163A24;
+}
+
+.yangilik3{
+    width: 290px;
+    height: 183px;
+    margin-left: 50px;
+   
+}
+
+.button1{
+    margin: 0.5px 598px ;
+    display: inline-block;
+    width: 244px;
+    height: 52px;
+    border-radius: 160px;
+    background-color: #198C36;
+    color: #FBFAF7;
+
+}
+.button2{
+    margin: 19px;
+    width: 191px;
+    
+}
+.baxor{
+    height: 415px;
+    display: flex;
+    background-color: #163A24;
+    justify-content: space-between;
+}
+.yozbir h1{
+    margin-top: 0;
+}
+.yozbir h1{
+    color: #FBFAF7;
+    width: 549px;
+    text-align: center;
+
+}
+.yozbir  p{
+    margin-left: 100px;
+    color: #FBFAF7;
+    text-align: center;
+
+}
+.button3{
+    margin-top: 18px ;
+    margin-left: 140px;
+    color: #163A24;
+    background-color: #FAB5A0;
+}
+.oldingi{
+    width: 1440px;
+    height: 240px;
+    background-color: #F2EFE6;
+    padding:  61px 0 61px 130px;
+    display: flex;
+  
+}
+.ikkidiv{
+    width: 590px;
+    height: 120px;
+   
+}
+.ppp{
+    margin-top: 29px;
+}
+.divbutton{
+    background-color: #FFFFFF;
+    width: 590px;
+    height: 54px;
+    border-radius: 255px ;
+    border: 1px ;
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+.divbutton button{
+    border-radius: 160px;
+    background-color: #15762E;
+    padding: 15px 25px;
+    align-items: center;
+    color: #FBFAF7;
+
+}
+.color{
+    color: #198C36;
+    font-size: 14px;
+}
+.footer{
+    width: 1440px;
+    height: 194px;
+   padding: 20px 130px 0px;
+}
+.divfooter{
+    width: 1180px;
+    height:84px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.fa-brands{
+    font-size: 30px;
+    color: #15762E;
+}
+
+.ulfooter{
+    display: flex;
+    width:  400px;
+    list-style-type: none;
+    justify-content: space-between;
+    color: #198C36;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
